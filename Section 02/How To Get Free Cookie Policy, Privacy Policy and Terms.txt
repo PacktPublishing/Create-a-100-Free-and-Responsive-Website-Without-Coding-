@@ -1,0 +1,23 @@
+How To Get Free Cookie Policy, Privacy Policy and Terms of Service
+Now you are probably wondering: You have the banner, but where do you get the privacy policy content from?
+
+There are a couple of ways where I do it for my own business sites.
+
+One thing - as a disclaimer: please be aware of the fact that the information provided on and trough this page can not be considered a substitute for professional legal advice, nor do they create an attorney-client relationship. You must always, under any circumstance, consult a legal service before posting your privacy policy to your website. I do not take any responsibility whatsoever by giving you the links that work for myself.
+
+Having said that, I operate out of Austria, Europe. So I believe our laws are pretty strict and for most cases, for simple websites, it should be enough to simply copy my workflow.
+
+If you don't do any third-party services such as Google-Analytics or if you don't post any Google AdSense Ads (if you don't know what that is, then it's safe to assume you don't do it), then you most likely can follow these services:
+
+For simple privacy policies and Terms of Service:
+
+https://getterms.io/
+
+I also always loved the Privacy Policy Generator from Shopify. It's totally free of charge, you don't even need to sign up. Just check the checkbox:
+
+https://www.shopify.com/tools/policy-generator
+
+
+You will get an email with a link to your Privacy Policy:
+
+
